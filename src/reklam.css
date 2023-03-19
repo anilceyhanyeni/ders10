@@ -1,0 +1,9 @@
+div.kampanya {
+    border: 3px solid black;
+    padding: 1rem;
+}
+
+div.kampanya h3 {
+    padding: 1rem;
+    background-color: bisque;
+}
